@@ -23,8 +23,9 @@ The Python script utilizes the OpenCV library for computer vision tasks. It dete
 
 4. Run the script, and it will process the video, creating a processed video with ball tracking and generating a text file with event records.
 
-##Output
-###Processed Video:
+## Output
+
+### Processed Video:
 - The video will display tracked balls with color labels.
 Entry and exit events are overlaid with a timestamp at the time of occurrence.
 Text File:
@@ -33,5 +34,5 @@ Text File:
 ## Notes
 - The program considers the start of the video as time 0 seconds.
 - To use a different video, modify the video = cv2.VideoCapture('path_to_your_video.mp4') line in the code.
-Contact
+### Contact
 - If you encounter any issues or have questions, please feel free to reach out for clarification.

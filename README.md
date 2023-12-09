@@ -1,4 +1,3 @@
-# AI Role - Assignment
 
 ## Task Overview
 
